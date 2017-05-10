@@ -1,0 +1,138 @@
+
+.dropdown{
+	color:white;
+	padding:16px;
+	font-size:16px;
+	position:relative;
+	display:inline-block;
+	font-family:"Pirata One",serif;
+}
+
+.dropdown-content{
+	display:none;
+	position:absolute;
+	background-color:#f9f9f9;
+	min-width:160px;
+	box-shadow:0px 8px 16px 0px rgba(0,0,0,0.2);
+	z-index:1;
+}
+.dropdown-content a{
+	color:black;
+	padding:12px 16px;
+	text-decoration:none;
+	display:block;
+}
+.dropdown-content a:hover{
+	background-color:#f1f1f1;
+}
+.dropdown:hover .dropdown-content{
+	display:block;
+}
+.demo-card-square.mdl-card {
+  width: 360px;
+  height: 360px;
+}
+.demo-card-square > .mdl-card__title1 {
+  color: #fff;
+  background:
+    url('images2/be.jpg') bottom right 45% no-repeat #46B6AC;
+}
+.demo-card-square > .mdl-card__title2 {
+  color: #fff;
+  background:
+    url('images2/bes.jpg') bottom right 45% no-repeat #46B6AC;
+	
+}
+.demo-card-square > .mdl-card__title3 {
+  color: #fff;
+  background:
+    url('images2/best.jpg') bottom right 45% no-repeat #46B6AC;
+}
+.mdl-card__title-text{
+	font-family:"Pirata One",serif;
+	color:black;
+}
+.mdl-card__title-text h4{
+	font-size:20px;
+	font-family:"Bilbo",serif;
+}
+.ribbon2{
+	  position:relative;
+	  left:30%;
+	  font-size:20px;  
+  }
+  .ribbon3{
+	  position:relative;
+	  left:30%;
+	  font-size:20px;
+	  
+  }
+ .ribbon4{
+	position:relative;
+	left:30%;
+	font-size:20px;
+  }
+  .vetting p{
+	  font-size:20px;
+	  font-family:"Pirata One",serif;
+	  
+  }
+  .firstpage{
+ height:600px;
+ background-image:url("images2/b.jpg");
+ background-repeat:no-repeat;
+ 
+  }
+ .trans{
+ height:550px;
+ width:500px;
+ position:absolute;
+ padding:10px;
+ background:rgba(204, 204, 204, 0.7);
+ left:5%;
+ top:10%;
+ }
+ .trans h1{
+	 color:black;
+	 font-size:60px;
+	 font-weight:bold;
+	 font-family:"Pirata One",serif;
+ }
+ .trans h2{
+	 color:black;
+	 font-size:50px;
+	 font-weight:bold;
+	 font-family:"Pirata One",serif;
+ }
+	 
+ .service h2{
+ font-family:"Pirata One",serif;
+text-align:center; 
+ }
+ .service h3{
+  font-family:"Bilbo",serif;	 
+ }
+ .description h3{
+	 font-weight:bold;
+	 font-family:"Pirata One",serif;
+	 text-align:center;
+ }
+ .form-section h2{
+	font-family:"Pirata One",serif;
+ }
+ .navbar-bottom{
+	min-height:300px;
+	margin-top:100px;
+	padding-top:35px; 
+	bottom:0%;
+ }
+ footer{
+	 background-color:black;
+ }
+ .about h2{
+	 text-align:center;
+	 font-family:"Pirata One",serif;
+ }
+ footer p{
+	 text-align:center;
+ }
